@@ -20,6 +20,7 @@ Techniques Used:
 Tools Used:
 - Google AI Studio
 - GitHub
+- Google Drive
 
 Output:
 The prompt successfully extracts candidate details and returns structured JSON output.
