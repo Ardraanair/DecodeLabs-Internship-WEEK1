@@ -1,0 +1,4 @@
+{ "candidate_name": "Ardra", "education_field": "Electronics and Communication",
+"skills": ["Embedded", "Python", "SQL", "Matlab"], "experience": "2 week
+internship in IOT", "desired_role": "ai intern", "contact_number": "9447575893"
+}

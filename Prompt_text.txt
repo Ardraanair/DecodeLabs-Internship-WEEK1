@@ -1,0 +1,53 @@
+Example 1
+
+INPUT
+
+RAW_TEXT:
+
+Hello, I'm Rahul Sharma.
+
+I'm a Computer Science Engineering student.
+
+My skills include Python, Java and SQL.
+
+I completed a 3-month internship in Web Development.
+
+I am looking for a Software Developer role.
+
+My phone number is 9876543210.
+
+OUTPUT
+
+{ "candidate_name": "Rahul Sharma", "education_field": "Computer Science
+Engineering", "skills": ["Python", "Java", "SQL"], "experience": "3-month
+internship in Web Development", "desired_role": "Software Developer",
+"contact_number": "9876543210" }
+
+Example 2
+
+INPUT
+
+RAW_TEXT:
+
+Hi, my name is Anjali Nair.
+
+I'm studying Electronics and Communication Engineering.
+
+Skilled in MATLAB, IoT and C Programming.
+
+I would like to work as an Embedded Engineer.
+
+OUTPUT
+
+{ "candidate_name": "Anjali Nair", "education_field": "Electronics and
+Communication Engineering", "skills": ["MATLAB", "IoT", "C Programming"],
+"experience": null, "desired_role": "Embedded Engineer", "contact_number": null
+}
+
+Now extract from:
+
+RAW_TEXT:
+
+Hi,My name is Ardra,a Electronics and Communication student.Skilled in
+Embedded,Python,SQL and Matlab.Completed a 2 week internship in IOT,i would like
+to work as ai intern and my contact number is 9447575893
